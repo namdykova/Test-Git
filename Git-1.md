@@ -5,6 +5,7 @@
 3. git commit -m "Комментарий" - создание commit
 > git commit -am "Комментарий" - git add и git commit -m "Комментарий"
 [Конспект 1](https://habr.com/ru/articles/541258/ "Конспект 1")
+git init - инициализация
 git status - вызвать блок информации по состоянию репозитория
 
 ## Lesson 2
